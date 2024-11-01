@@ -1,7 +1,3 @@
-Git Assignment Project
-
-Name: Amal Raj Veluthedath nair
-Student Number: 23226062
-
-introduction 
-Repo for scientific programming concepts 24/25
+practical 3
+printinf floating points, with specific decimals places 
+and trap rule output printed out
