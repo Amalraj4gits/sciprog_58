@@ -1,1 +1,1 @@
-program to multiply two matrix , with use of pointers
+program to multiply two matrix , create a make file for seperrating the matrix multiplication
