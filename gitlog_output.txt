@@ -1,0 +1,47 @@
+commit 87f45d136835c8fda0b3694d47c090e6ad81c88b
+Author: Amal raj <amalrajv35@gmail.com>
+Date:   Fri Nov 1 12:16:30 2024 +0000
+
+     addding prcatical3
+
+commit 3ca3162d9990519184c7f2e38b01c56ef7729e00
+Author: Amal raj <amalrajv35@gmail.com>
+Date:   Thu Oct 31 22:20:02 2024 +0000
+
+    multiplication of matrix
+
+commit 939cd1f29c9f4631ec31fe4b1d14b3235ac5f750
+Author: Amal raj <amalrajv35@gmail.com>
+Date:   Thu Oct 31 22:15:38 2024 +0000
+
+    fibnocci series
+
+commit 3b43020454309fca31f6a0b34d81a47458850039
+Author: Amal raj <amalrajv35@gmail.com>
+Date:   Thu Oct 31 22:14:41 2024 +0000
+
+    getting input from user
+
+commit 3889b86476acb2361844af64f9c002e2cc24deeb
+Author: Amal raj <amalrajv35@gmail.com>
+Date:   Thu Oct 31 22:02:24 2024 +0000
+
+    trapezoidal with functions
+
+commit a0ca72d3c93ac0cc8c235dcb1135ef21d5c9c769
+Author: Amal raj <amalrajv35@gmail.com>
+Date:   Thu Oct 31 21:36:39 2024 +0000
+
+    trapezoidal method
+
+commit c1da4ffd2909a66294ccafd4035816e10749fbd5
+Author: Amal raj <amalrajv35@gmail.com>
+Date:   Sun Oct 13 16:34:45 2024 +0100
+
+    Add practical2 Codes
+
+commit 4788b594b09bb41eac94e9a04b9de184613890f5
+Author: Amal raj <amalrajv35@gmail.com>
+Date:   Sun Oct 13 12:39:16 2024 +0100
+
+    Add introduction to Git Assignment
